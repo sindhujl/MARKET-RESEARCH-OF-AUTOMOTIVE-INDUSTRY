@@ -23,6 +23,6 @@ and in power bi visuals I'll focus on padding , grouping the visuals, building r
 
 Tips for power bi:
 If you are incorporating custom background make sure to turn of background, adjust ur padding to make the visuals look pleasing.
-Always keep your dimension tables on top and flat tables in bottom for detailed model view, seperate table for date functions is a best practice.
+Always keep your dimension tables on top and flat tables in bottom for detailed model view, seperate table for date is a best practice.
 Create new table and store the key measures.
 only create calculated columns in need, always opt for measures as it calculates on a fly and doesn't store data. 
