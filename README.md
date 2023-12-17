@@ -1,5 +1,6 @@
 # impact-of-automobile-features- 
 pbi online file: https://app.powerbi.com/view?r=eyJrIjoiZmUzM2VjNDEtNjk3Yi00NzcwLWI1OWUtMTY1ZjljMjZiMjk5IiwidCI6Ijk2M2JlZWEyLTRiYjQtNDI3MS04Nzg5LWVkMWQ0ZWQ3MmFmYSIsImMiOjEwfQ%3D%3D
+
 Questions to ask before analysis. Once, you try to come with questions it will clearly help with your analysis. At time's you will feel like you are stuck so coming with these questions for yourself will clear your thoughts and give's a broader spectre for analysis:
 Here are my questions, It might help to kick-start your thought process:
 1) what are the important features.
