@@ -7,15 +7,22 @@ Here are my questions, It might help to kick-start your thought process:
 4) can we compare premium cars to normal cars, if so on what bases?
 5) how car features are correlated to each other?
 
+**SCOPE**:
+In a rapidly evolving automotive industry, the challenge is clear: how can a car manufacturer optimize pricing and product development to maximize profitability while meeting consumer demand? Through data analysis, we aim to unravel the intricate relationship between car features, market categories, and pricing. Using techniques like regression analysis and market segmentation, our goal is to inform a strategic pricing approach that balances consumer preferences with profitability. 
 Please refer the sheet I've utilized pivot tables, conditional formatting, boxplots for outliers and statistical methods in excel.
 
-Key components in the power bi report, I'm highlighting only which i think made impact to my report:
-1) use of custom tooltip, helps use to visualize multiple features
-2) Quick Insights always provide the detailed summary of the report, so utilized that.
-3) KPI and slicers
-4) scatter plot for bi variate and multi variate analysis.
-5) Time intelligence DAX Functions, cummulative totals.
-6) Data model
+**DATA AND FINDINGS:**
+The initial dataset, included qualitative data various car features data. It had data on the Car Model , Retail price, No of cylinders, Size and Type of the Vehicle
+In our outlier detection analysis ,Exploratory data analysis phase, interesting results were found. For example, we found that the most of the outliers which are crossing the threshold limit are due to electric vehicles and high range vehicles, on further analysis we have found that most high-end vehicles calls have high horse power and more number of cylinders. Bugatti, Maybach, Rolls-Royce brands have higher average retail price.
+
+**APPROACH**:
+In order to analyze the call center data and generate insights out of it, we followed the process that looked at the data using the following visualizations:
+Pre processing, Exploratory Data Analysis using Excel, Power Bi and Python
+Regression analysis and correlation.
+Univariate, bivariate and multivariate analysis with MSRP and MPG
+Building Star schema Data model.
+Scatter Plot Chart and Top Brands column chart
+Tool Tip customization and Grouping visuals.
 
 **Result**: If I had a chance to re-do the project, Although I've done outlier analysis in excel, recommend you to utilize python for data normalization and pre-processing,
 still i did it in excel to explore advance excel lookup formulas, stat formulas , pivot tables, pivot charts, visualizations.
