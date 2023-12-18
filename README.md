@@ -18,7 +18,7 @@ The initial dataset, included qualitative data various car features data. It had
 In our outlier detection analysis ,Exploratory data analysis phase, interesting results were found. For example, we found that the most of the outliers which are crossing the threshold limit are due to electric vehicles and high range vehicles, on further analysis we have found that most high-end vehicles calls have high horse power and more number of cylinders. Bugatti, Maybach, Rolls-Royce brands have higher average retail price.
 
 **APPROACH**:
-In order to analyze the call center data and generate insights out of it, we followed the process that looked at the data using the following visualizations:
+In order to analyze the Automobile data and generate insights out of it, we followed the process that looked at the data using the following visualizations:
 Pre processing, Exploratory Data Analysis using Excel, Power Bi and Python
 Regression analysis and correlation.
 Univariate, bivariate and multivariate analysis with MSRP and MPG
