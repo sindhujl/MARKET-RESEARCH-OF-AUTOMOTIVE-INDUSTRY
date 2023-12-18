@@ -11,7 +11,6 @@ Here are my questions, It might help to kick-start your thought process:
 
 **SCOPE**:
 In a rapidly evolving automotive industry, the challenge is clear: how can a car manufacturer optimize pricing and product development to maximize profitability while meeting consumer demand? Through data analysis, we aim to unravel the intricate relationship between car features, market categories, and pricing. Using techniques like regression analysis and market segmentation, our goal is to inform a strategic pricing approach that balances consumer preferences with profitability. 
-Please refer the sheet I've utilized pivot tables, conditional formatting, boxplots for outliers and statistical methods in excel.
 
 **DATA AND FINDINGS:**
 The initial dataset, included qualitative data various car features data. It had data on the Car Model , Retail price, No of cylinders, Size and Type of the Vehicle
