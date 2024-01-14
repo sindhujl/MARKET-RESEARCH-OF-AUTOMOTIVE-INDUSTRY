@@ -22,9 +22,3 @@ Univariate, bivariate and multivariate analysis with MSRP and MPG
 Building Star schema Data model.
 Scatter Plot Chart and Top Brands column chart
 Tool Tip customization and Grouping visuals.
-
-**Tips for Power Bi:**
-If you are incorporating custom background make sure to turn of background in charts, adjust ur padding to make the visuals look pleasing.
-Always keep your dimension tables on top and flat tables in bottom for detailed model view, seperate table for date is a best practice.
-Create new table and store the key measures.
-only create calculated columns in need, always opt for measures as it calculates on a fly and doesn't store data. 
