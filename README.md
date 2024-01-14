@@ -1,8 +1,6 @@
 # impact-of-automobile-features- 
 pbi online file: https://app.powerbi.com/view?r=eyJrIjoiZmUzM2VjNDEtNjk3Yi00NzcwLWI1OWUtMTY1ZjljMjZiMjk5IiwidCI6Ijk2M2JlZWEyLTRiYjQtNDI3MS04Nzg5LWVkMWQ0ZWQ3MmFmYSIsImMiOjEwfQ%3D%3D&pageName=ReportSection6fcae2da8017cc59883b
 
-Questions to ask before analysis. Once, you try to come with questions it will clearly help with your analysis. At time's you will feel like you are stuck so coming with these questions for yourself will clear your thoughts and give's a broader spectre for analysis:
-Here are my questions, It might help to kick-start your thought process:
 1) what are the important features.
 2) How price varies with the features and brands?
 3) why high end brands are consistent with the sales?
@@ -25,14 +23,8 @@ Building Star schema Data model.
 Scatter Plot Chart and Top Brands column chart
 Tool Tip customization and Grouping visuals.
 
-**Result**: If I had a chance to re-do the project, Although I've done outlier analysis in excel, recommend you to utilize python for data normalization and pre-processing,
-still i did it in excel to explore advance excel lookup formulas, stat formulas , pivot tables, pivot charts, visualizations.
-and in power bi visuals I'll focus on padding , grouping the visuals, building robust model for the tables to reduce load time.
-
 **Tips for Power Bi:**
 If you are incorporating custom background make sure to turn of background in charts, adjust ur padding to make the visuals look pleasing.
 Always keep your dimension tables on top and flat tables in bottom for detailed model view, seperate table for date is a best practice.
 Create new table and store the key measures.
 only create calculated columns in need, always opt for measures as it calculates on a fly and doesn't store data. 
-
-Update: I've done EDA for similar dataset from kaggle, refer if needed
